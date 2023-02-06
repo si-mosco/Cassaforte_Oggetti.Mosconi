@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cassaforte_Oggietti.Mosconi
 {
-    abstract class Oggetto
+    public abstract class Oggetto
     {
         //attributi
         private string _id;
